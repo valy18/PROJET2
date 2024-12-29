@@ -28,7 +28,7 @@ pip install numpy matplotlib
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project_directory>
+   cd ScratchRn
    ```
 
 ### Usage
